@@ -1,2 +1,2 @@
 # WebSites
-Some websites I made when I was bored
+Hey! Here are some websites which I made out of boredom. 
